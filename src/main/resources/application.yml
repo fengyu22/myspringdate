@@ -1,0 +1,13 @@
+#spring:
+#  datasource:
+#    data-username: root
+#    data-password: 123456
+#    url: jdbc:mysql://192.168.126.128:3306/jdbc
+#    driver-class-name: com.mysql.jdbc.Driver
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    #initialization-mode: always
+#   # 数据源其他配置
+#    druid:
+#      url: jdbc:mysql://192.168.126.128:3306/jdbc
+#
+
