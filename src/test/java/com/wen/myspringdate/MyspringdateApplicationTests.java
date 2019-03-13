@@ -21,6 +21,7 @@ public class MyspringdateApplicationTests {
         try  {
             Connection root = dataSource.getConnection("root", "123456");
             System.out.println(root);
+                 System.out.println("hello");
         }catch (Exception e){
             e.getMessage();
         }
